@@ -1,11 +1,11 @@
-# %%TITULO%% 🐍
+# Plantillas de Mensajes para Citas 🐍
 
 [![Python](https://img.shields.io/badge/Python-100%25-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Deploy](https://github.com/configurowebmax/python-plantillas-mensajes-citas/actions/workflows/pages.yml/badge.svg)](https://github.com/configurowebmax/python-plantillas-mensajes-citas/actions)
 [![Live Demo](https://img.shields.io/badge/Demo-GitHub%20Pages-success?logo=github&logoColor=white)](https://configurowebmax.github.io/python-plantillas-mensajes-citas/)
 [![License](https://img.shields.io/badge/Licencia-MIT-blue)](LICENSE)
 
-> %%DESCRIPCION%%
+> Elige el tipo de mensaje y rellena los datos para obtener un texto profesional.
 
 ## 🚀 Probar la aplicación
 
